@@ -12,6 +12,6 @@ Sistema desenvolvido para treinamento, com intuito de coletar informações de u
 ### Imagem
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/eduardotks/c_sharp_web_crawler/blob/main/wwwroot/Images/capa.png">
 </p>
 
