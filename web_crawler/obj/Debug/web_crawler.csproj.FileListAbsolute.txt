@@ -1,0 +1,17 @@
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\web_crawler.exe.config
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\web_crawler.exe
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\web_crawler.pdb
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.csproj.AssemblyReference.cache
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.csproj.SuggestedBindingRedirects.cache
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.csproj.CoreCompileInputs.cache
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.exe
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.pdb
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\System.Net.Http.Extensions.dll
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\System.Net.Http.Primitives.dll
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\System.Net.Http.Extensions.xml
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\System.Net.Http.Primitives.xml
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.csproj.App.config
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\obj\Debug\web_crawler.csproj.CopyComplete
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\HtmlAgilityPack.dll
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\HtmlAgilityPack.pdb
+D:\CODATUDOOO\c_sharp_web_crawler\web_crawler\bin\Debug\HtmlAgilityPack.xml
